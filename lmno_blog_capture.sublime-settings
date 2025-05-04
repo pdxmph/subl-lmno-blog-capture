@@ -1,0 +1,4 @@
+{
+  // Default location – users can override in their User settings
+  "destination_path": "~/your/lmno.lol/file.md"
+}

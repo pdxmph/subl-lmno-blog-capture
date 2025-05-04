@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+alt+b"],  "command": "lmno_capture_post"      },
+  { "keys": ["ctrl+alt+f"],  "command": "lmno_finalize_capture" },
+  { "keys": ["ctrl+alt+a"],  "command": "lmno_abort_capture"    }
+]
